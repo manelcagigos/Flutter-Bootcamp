@@ -8,7 +8,7 @@ Also, I put the link to go to the GitHub repository of the resources of the cour
 
 ---
 
-It should be noted that all of these projects are done following the videos/tutorials that the course has (as expected if you are learning), but it is also true that I did all the challenges in which no videos were provided to follow.
+It should be noted that all of these projects are done following the videos/tutorials that the course has (as expected if you are learning), but it is also true that I did all the challenges in which videos were not provided to follow, although it is not demonstrable. It's not necessary either, it was my first time programming in Dart from scratch and I learned a lot from this course.
 
 #
 
