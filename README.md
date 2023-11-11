@@ -14,5 +14,13 @@ It should be noted that all of these projects are done following the videos/tuto
 
 ## My Projects
 
-- [Project 1 - ]()
+- [Project 1 - First Flutter App From Scratch](https://github.com/manelcagigos/i_am_rich)
+- [Project 2 - App Challenge - Created without any video to follow](https://github.com/manelcagigos/i_am_poor)
+- [Project 3 - Creating a Beautiful UI with Flutter Widgets](https://github.com/manelcagigos/mi_card_flutter)
+- [Project 4 - Building an App with State](https://github.com/manelcagigos/dicee_flutter)
+- [Project 5 - Boss Level Challenge 1 - Magic 8 Ball](https://github.com/manelcagigos/magic_8_ball_flutter)
+- [Project 6 - Using Flutter and Dart Packages to Speed Up Development](https://github.com/manelcagigos/xylophone_flutter)
+- [Project 7 - Modularising & Organising Flutter Code](https://github.com/manelcagigos/quizzler_flutter)
+- [Project 8 - Boss Level Challenge 2 - Destiny](https://github.com/manelcagigos/destiny_challenge)
+- [Project 9 - Building Flutter UIs for Intermediates](https://github.com/manelcagigos/bmi_calculator_flutter)
 
