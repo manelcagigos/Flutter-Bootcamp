@@ -1,6 +1,8 @@
 # 📱 Flutter Bootcamp
 
 I took this Flutter/Dart course on Udemy to improve my skills in this open soruce framework and language respectively, in order to be useful in my internship in a company focused on Flutter development.
+P.S.
+- Thanks to my boss at "<a href="https://nexa.agency/" target="_blank">nexa.agency</a>" for letting me do this course on his Udemy account, at the end I plan to buy it on my Udemy account to get the certificate.
 
 You cand find the respective course on Udemy here: "<a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/" target="_blank">Udemy Course</a>".
 <br><br/>
