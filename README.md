@@ -8,6 +8,8 @@ Also, I put the link to go to the GitHub repository of the resources of the cour
 
 ---
 
+It should be noted that all of these projects are done following the videos/tutorials that the course has (as expected if you are learning), but it is also true that I did all the challenges in which no videos were provided to follow.
+
 #
 
 ## My Projects
