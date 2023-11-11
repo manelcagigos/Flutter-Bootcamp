@@ -6,7 +6,6 @@ You cand find the respective course on Udemy here: "<a href="https://www.udemy.c
 <br><br/>
 Also, I put the link to go to the GitHub repository of the resources of the course: "<a href="https://github.com/londonappbrewery/Flutter-Course-Resources" target="_blank">GitHub Repository of the course</a>".
 
-<br><br/>
 P.S.
 - Thanks to my boss at "<a href="https://nexa.agency/" target="_blank">nexa.agency</a>" for letting me do this course on his Udemy account, at the end I plan to buy it on my Udemy account to get the certificate.
 ---
