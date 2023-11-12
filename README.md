@@ -14,7 +14,7 @@ It should be noted that all of these projects are done following the videos/tuto
 
 #
 
-## My Projects
+## Flutter Projects
 
 - [Project 1 - First Flutter App From Scratch](https://github.com/manelcagigos/i_am_rich)
 - [Project 2 - App Challenge - Created without any video to follow](https://github.com/manelcagigos/i_am_poor)
