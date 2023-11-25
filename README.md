@@ -10,8 +10,7 @@ P.S. Thanks to my boss at "<a href="https://nexa.agency/" target="_blank">nexa.a
 
 ---
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-It should be noted that all of these projects are done following the videos/tutorials that the course has (as expected if you are learning), but it is also true that I did all the challenges in which videos were not provided to follow, although it is not demonstrable. It's not necessary either, it was my first time programming in Dart from scratch and I learned a lot from this course.
+> It should be noted that all of these projects are done following the videos/tutorials that the course has (as expected if you are learning), but it is also true that I did all the challenges in which videos were not provided to follow, although it is not demonstrable. It's not necessary either, it was my first time programming in Dart from scratch and I learned a lot from this course.
 -->
 #
 
