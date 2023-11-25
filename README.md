@@ -28,8 +28,8 @@ P.S. Thanks to my boss at [nexa.agency](https://nexa.agency/) for introducing me
 - [Project 10 - Powering Your Flutter App with Live Web Data (API's)](https://github.com/manelcagigos/clima_flutter)
 - [Project 11 - Boss Level Challange 3 - Bitcoin Ticker](https://github.com/manelcagigos/bitcoin_ticker_flutter)
 - [Project 12 - Flutter x Firebase Cloud Firestore](https://github.com/manelcagigos/flash_chat_flutter)
-- [Project 13.1 - Flutter State Management (To-Do app), app done following the tutorials from the Udemy course](https://github.com/manelcagigos/todoey_flutter_FollowingUdemyCourse)
-- [Project 13.2 - Flutter State Management (To-Do app), app done using BLoC and not following the tutorials from the Udemy course](https://github.com/manelcagigos/todoey_flutter_UsingBloc)
+- [Project 13.1 - Flutter State Management (To-Do app), app done using the Provider package](https://github.com/manelcagigos/todoey_flutter_FollowingUdemyCourse)
+- [Project 13.2 - Flutter State Management (To-Do app), app done using the BLoC package](https://github.com/manelcagigos/todoey_flutter_UsingBloc)
 
 #
 
