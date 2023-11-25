@@ -25,4 +25,9 @@ It should be noted that all of these projects are done following the videos/tuto
 - [Project 7 - Modularising & Organising Flutter Code](https://github.com/manelcagigos/quizzler_flutter)
 - [Project 8 - Boss Level Challenge 2 - Destiny](https://github.com/manelcagigos/destiny_challenge)
 - [Project 9 - Building Flutter UIs for Intermediates](https://github.com/manelcagigos/bmi_calculator_flutter)
+- [Project 10 - Powering Your Flutter App with Live Web Data (API's)](https://github.com/manelcagigos/clima_flutter)
+- [Project 11 - Boss Level Challange 3 - Bitcoin Ticker](https://github.com/manelcagigos/bitcoin_ticker_flutter)
+- [Project 12 - Flutter x Firebase Cloud Firestore](https://github.com/manelcagigos/flash_chat_flutter)
+- [Project 13.1 - Flutter State Management (To-Do app), app done following the tutorials from the Udemy course](https://github.com/manelcagigos/todoey_flutter_FollowingUdemyCourse)
+- [Project 13.2 - Flutter State Management (To-Do app), app done using BLoC and not following the tutorials from the Udemy course](https://github.com/manelcagigos/todoey_flutter_UsingBloc)
 
