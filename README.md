@@ -33,6 +33,8 @@ P.S. Thanks to my boss at [nexa.agency](https://nexa.agency/) for introducing me
 
 #
 
+### Syllabus of the course
+
 In this PDF you can find the syllabus for this Udemy course and everything about what you are supposed to learn by doing these projects.
 [App Brewery Flutter Course Syllabus.pdf](https://github.com/manelcagigos/Flutter-Bootcamp/files/13465162/App.Brewery.Flutter.Course.Syllabus.pdf)
 
