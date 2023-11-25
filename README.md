@@ -12,7 +12,7 @@ P.S. Thanks to my boss at [nexa.agency](https://nexa.agency/) for introducing me
 > [!NOTE]
 > It should be noted that all of these projects are done following the videos/tutorials that the course has (as expected if you are learning), but it is also true that I did all the challenges in which videos were not provided to follow, although it is not demonstrable. It's not necessary either, it was my first time programming in Dart from scratch and I learned a lot from this course.
 -->
----
+#
 
 ## Flutter Projects
 
@@ -31,7 +31,7 @@ P.S. Thanks to my boss at [nexa.agency](https://nexa.agency/) for introducing me
 - [Project 13.1 - Flutter State Management (To-Do app), app done following the tutorials from the Udemy course](https://github.com/manelcagigos/todoey_flutter_FollowingUdemyCourse)
 - [Project 13.2 - Flutter State Management (To-Do app), app done using BLoC and not following the tutorials from the Udemy course](https://github.com/manelcagigos/todoey_flutter_UsingBloc)
 
----
+#
 
 In this PDF you can find the syllabus for this Udemy course and everything about what you are supposed to learn by doing these projects.
 [App Brewery Flutter Course Syllabus.pdf](https://github.com/manelcagigos/Flutter-Bootcamp/files/13465162/App.Brewery.Flutter.Course.Syllabus.pdf)
